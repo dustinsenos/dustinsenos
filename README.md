@@ -1,20 +1,4 @@
-### Hi there 👋
-
-<!--
-**dustinsenos/dustinsenos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I’m **Dustin Senos**. 👋
+Hi, I’m **Dustin Senos (he/him)**. 👋
 
 A goal to enrich peoples’ lives through engineering and design has driven me to create digital products for more than a decade.
 
@@ -41,7 +25,6 @@ I also ship personal projects like [Out of Office Hours](https://www.outofoffice
 I’m semi-active on [Twitter](https://twitter.com/dustin) and [Instagram](https://instagram.com/dustin), and publish longer thoughts on [Medium](https://medium.com/@dustin). I'm often reading and have recently [listed the books](/books) I'm reading, read, and soon to start.
 
 Various small, ongoing projects:
-*   [Karaoke.camp](https://karaoke.camp) — A 24hr free online karaoke
 *   [Sharemark](https://sharemark.co) — An email publishing platform.
 *   [Articles.page](https://articles.page) — An updating list of evergreen articles in response to events at work, such as "I need to setup a career path framework."
 *   [Mixtape Songs](http://mixtapesongs.com) — Currently a collection of friends' "Favorite ten albums from the last ten years." lists.
@@ -66,7 +49,3 @@ As a personal goal I’ve challenged myself to speak in front of groups of stran
 *   [The Hero’s Journey — UXAlive Istanbul, Turkey](https://www.udemy.com/uxalive-conference/#%2Flecture%2F3032898)
 *   [Google FORM — San Francisco, USA](https://www.youtube.com/watch?v=JpJQ3hdVO2M)
 *   [TypeCon — Washinton DC, USA](https://vimeo.com/107421894)
-
-If you’d like to chat, feel free to send me an [email](mailto:hi+web@dustinsenos.com).
-
-<!-- <p class="black-40">To see my older work check out my <a class="hover-black gray" href="/previous-index.html">previous site</a>.</p> -->
