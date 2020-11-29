@@ -2,7 +2,9 @@ Hi, I’m **Dustin Senos (he/him)**. 👋
 
 A goal to enrich peoples’ lives through engineering and design has driven me to create digital products for more than a decade.
 
-In 2017 I started a [digital product studio](http://www.smallanimalstudios.com) taking on design, product, and prototyping work. Previously, I was the [Head of Design at Medium](https://medium.com), a platform where Barack Obama, Tony Hawk, and everyday people share thoughts and stories. Before Medium, I was a Software Engineer at [Walt Disney](https://disney.com) and oversaw a team of engineers building the game engine for [Club Penguin](https://clubpenguin.com), a virtual world inhabited by millions of children.
+I spend my days at [The Browser Company of New York](https://thebrowser.company) as a product designer. We’re building a better browser so your time on the internet is more enjoyable. You should leave your email if you’d like to know when we launch.
+
+Before The Browser Company, I started a [digital product studio](http://www.smallanimalstudios.com) taking on design, product, and prototyping work. Previously, I was the [Head of Design at Medium](https://medium.com), a platform where Barack Obama, Tony Hawk, and everyday people share thoughts and stories. Before Medium, I was a Software Engineer at [Walt Disney](https://disney.com) and oversaw a team of engineers building the game engine for [Club Penguin](https://clubpenguin.com), a virtual world inhabited by millions of children.
 
 To build skill and gain perspective, I take on projects in various verticals that are interesting and challenging. Below is a selection of projects I've worked on:
 
